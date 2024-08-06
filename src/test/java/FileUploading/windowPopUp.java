@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class windowPopUp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// comment changed for window popup
 
 		//System.setProperty(null, null)
 		WebDriver driver = new ChromeDriver();
