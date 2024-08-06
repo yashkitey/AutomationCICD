@@ -20,6 +20,9 @@ public class fileUpload {
 	public static void main(String[] args) throws InterruptedException, IOException {
 		
 		// Get the path of project run time - dynamically
+		//Ne wcomments added by yash
+
+
 		String downloadPath = System.getProperty("user.dir");
 		
 		HashMap<String, Object> chromePrefs = new HashMap<String, Object>();
